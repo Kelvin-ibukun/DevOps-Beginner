@@ -18,17 +18,17 @@ This is my first project with which I attempted to launch a static website using
 
 - I then clicked on the named instance created 
 
-![4](pics/4.png)
+![4](Pics/4.png)
 
 - Click on the connect button as shown below:
 
-![5](pics/5.png)
+![5](Pics/5.png)
 
 -I copied the prompt under SSH client
 
-![6](pics/6.png)
+![6](Pics/6.png)
 
-Final result of the website: I did not save all the screenshot of the processes I took to get here.
+Final result of the website: I did not save all the screenshots of the processes I took to get here.
 
 ![7](pics/7.png)
 
