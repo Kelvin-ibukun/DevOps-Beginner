@@ -30,7 +30,7 @@ This is my first project with which I attempted to launch a static website using
 
 Final result of the website: I did not save all the screenshots of the processes I took to get here.
 
-![7](pics/7.png)
+![7](Pics/7.png)
 
 End of Project1
 
